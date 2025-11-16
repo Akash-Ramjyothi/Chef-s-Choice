@@ -5,7 +5,7 @@
 </p>
 
 ## 📜 Description:
-Developed a React app to search for various Recipes from many categories. Displays the Ingredients through Pop-up to increase user engagement within the website just to get the preliminary details. Also has implemented a feature to show detailed step-by-step procedures on how to cook the particular Dish. Also made the website completely responsive. Used edamam's 3rd party API and Axios for easier API Integration.
+Developed a Web App to search for various Recipes from many categories. Displays the Ingredients through Pop-up to increase user engagement within the website just to get the preliminary details. Also has implemented a feature to show detailed step-by-step procedures on how to cook the particular Dish. Also made the website completely responsive. Used edamam's 3rd party API and Axios for easier API Integration.
 
 ## 📽 Sample Demo:
 https://user-images.githubusercontent.com/54114888/158065421-5fcbfe1e-56dd-48e3-8d16-ed32ee762469.mp4
