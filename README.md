@@ -1,11 +1,11 @@
 <h1 align="center">Chef's Choice</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54114888/158064237-c79593c6-5542-4095-bdce-a111118707b4.png" width="180" height="180">
+<img src="https://user-images.githubusercontent.com/54114888/158064237-c79593c6-5542-4095-bdce-a111118707b4.png" width="150" height="150">
 </p>
 
 ## 📜 Description:
-Developed a Web App to search for various Recipes from many categories. Displays the Ingredients through Pop-up to increase user engagement within the website just to get the preliminary details. Also has implemented a feature to show detailed step-by-step procedures on how to cook the particular Dish. Also made the website completely responsive. Used edamam's 3rd party API and Axios for easier API Integration.
+Developed a responsive recipe search web app with category-based browsing, ingredient drill-down, and detailed step-by-step cooking procedures. Integrated Edamam’s API using Axios for seamless data retrieval and improved user engagement.
 
 ## 📽 Sample Demo:
 https://user-images.githubusercontent.com/54114888/158065421-5fcbfe1e-56dd-48e3-8d16-ed32ee762469.mp4
